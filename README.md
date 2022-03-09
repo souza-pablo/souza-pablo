@@ -12,32 +12,30 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Pablo! 🇧🇷
+Olá, eu sou o Pablo de Souza! 🇧🇷
 <br>
 
 </h3>
 
 ```
 Estudante de Sistema de Informação pela UniFOA - Centro Universitário de Volta Redonda, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Tecnico de Automação Industrial pela IFRJ - Instituto Federal do Rio de Janeiro.
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
   - Java
+  - Python
+  - Spring Boot
+  - HTML e CSS
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
+- Realizei o Bootcamp de Java e estou apaixonado pela área, tenho aprendido muito. 😄
 - Sou formado em tecnico em automação industrial.
-
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
-
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências. 
 - Estou cursando Sitema de Informação. 💻
 
 ## Meus dados no Github
-
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souza-pablo&show_icons=true&theme=tokyonight)
-</span> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurspk&show_icons=true&theme=tokyonight)
 [![souza-pablo](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/souza-pablo/)
