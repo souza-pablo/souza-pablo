@@ -40,5 +40,3 @@ Tecnico de Automação Industrial pela IFRJ - Instituto Federal do Rio de Janeir
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&hide=html&layout=compact=true&theme=tokyonight)
 [![souza-pablo](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/souza-pablo/)
-![Snake animation](https://github.com/souza-pablo/souza-pablo/blob/output/github-contribution-grid-snake.svg)
-
