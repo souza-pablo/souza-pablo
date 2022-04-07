@@ -38,5 +38,8 @@ Tecnico de Automação Industrial pela IFRJ - Instituto Federal do Rio de Janeir
 
 ## Meus dados no Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&hide=html&layout=compact=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&hide=html&layout=compact=true&theme=tokyonight)
 [![souza-pablo](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/souza-pablo/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=souza-pablo&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souza-pablo&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/souza-pablo/github-readme-stats)
